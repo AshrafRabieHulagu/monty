@@ -1,5 +1,5 @@
 # ALX - SE
 ## the solution of project 0x19. C - Stacks, Queues - LIFO, FIFO
  > AUTHORS:
- > - Arafa Khalaf Khalaf
- > - Ashraf Rabie
+ > - [Arafa Khalaf](https://github.com/34R4F4)
+ > - [Ashraf Rabie](https://github.com/AshrafRabieHulagu/)
